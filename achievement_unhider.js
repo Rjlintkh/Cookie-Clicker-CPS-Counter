@@ -3,6 +3,7 @@ Game.registerMod("Achievement Unhider", {
 	version: "1.0.0",
 	GameVersion: "2.031",
 	init: () => {
+	Game.Win("Third-party");
         Game.crate = function (me, context, forceClickStr, id) {
 			//produce a crate with associated tooltip for an upgrade or achievement
 			//me is an object representing the upgrade or achievement

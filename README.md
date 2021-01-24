@@ -1,1 +1,3 @@
-# cookie__cps_counter
+# CPS Counter for Cookie Clicker
+
+Add the script via Tampermonkey
